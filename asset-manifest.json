@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/miTarjeta/static/css/main.2dd3f317.css",
+    "main.js": "/miTarjeta/static/js/main.7d66aa8e.js",
+    "static/js/787.9250c129.chunk.js": "/miTarjeta/static/js/787.9250c129.chunk.js",
+    "static/media/foto.png": "/miTarjeta/static/media/foto.dfd51b8bdb4526a51078.png",
+    "static/media/d1.png": "/miTarjeta/static/media/d1.3f74ecb4440c52c64fff.png",
+    "index.html": "/miTarjeta/index.html",
+    "main.2dd3f317.css.map": "/miTarjeta/static/css/main.2dd3f317.css.map",
+    "main.7d66aa8e.js.map": "/miTarjeta/static/js/main.7d66aa8e.js.map",
+    "787.9250c129.chunk.js.map": "/miTarjeta/static/js/787.9250c129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd3f317.css",
+    "static/js/main.7d66aa8e.js"
+  ]
+}
