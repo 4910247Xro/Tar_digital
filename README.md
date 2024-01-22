@@ -1,6 +1,6 @@
 <h1>Tarjeta</h1>
 
-![](https://github.com/4910247Xro/miTarjeta/blob/main/Capturaaa.PNG)
+![](https://github.com/4910247Xro/Tar_digital/blob/main/Capturaaa.PNG)
 <p>
   Tarjeta de presentación realizada con react, donde se encuentra información detallada sobre mi.
 </p>
@@ -15,4 +15,4 @@ npm install
 ```bash
 npm start
 ```
-[Mira mi tarjeta](https://4910247xro.github.io/miTarjeta/)
+[Mira mi tarjeta](https://4910247xro.github.io/Tar_digital/)
